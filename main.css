@@ -1,0 +1,192 @@
+@import url('https://fonts.googleapis.com/css2?family=Bonbon&display=swap');  
+
+body{
+    margin:16;
+    background: rgb(176, 96, 201);
+    
+
+}
+.container{
+    width: 80%;
+    margin: 0 auto;
+
+}    
+
+.container1{
+    width: 80%;
+    margin: 0 auto;
+
+}
+
+.conatainer2{
+    width:80%;
+    margin: 0 auto;
+
+}
+
+.container3{
+    width:80%;
+    margin: 0 auto;
+}
+
+.container4{
+    width:80%;
+    margin:0;
+
+}
+
+
+header{
+    background:cadetblue;
+
+}
+
+nav header::after{
+    content:"";
+    display: table;
+    clear: both;
+}
+    
+
+nav ul{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+nav li{
+    
+    display: inline-block;
+    margin-left: 70px;
+    padding-top: 25px;
+}
+
+
+nav a{
+    color:cyan;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 80px;
+}
+
+.active2{
+    font-size: 40px;
+}
+
+.active3{
+    font-size: 40px;
+
+}
+
+.active4{
+    font-size: 20px;
+
+}
+
+.title{
+    font-family: 'Bonbon', cursive;
+    text-align: center;
+    color: cyan;
+    font-size: 200px;
+}
+
+h2{
+    font-size: 60px;
+    text-align: right;
+    color: cyan;
+}
+h3{
+    font-size: 60px;
+    text-align: right;
+    color: cyan
+}
+
+h4{
+    font-size: 80px;
+    text-align: center;
+}
+
+h5{
+    font-size: 80px;
+    text-align: center;
+}
+
+#welcome{
+    font-size: 100px;
+    color: white;
+}
+
+
+.box{
+    color:rgb(0, 0, 0);
+    font-size: 25px;
+    text-align: center;
+    padding: 15px;
+    width: 150px;
+}
+
+#box1 {background: crimson;
+}
+#box2 {background: rgb(33, 33, 140)}
+#box3 {background: rgb(85, 255, 0)}
+#box4 {background: rgb(225, 0, 255)}
+#box5 {background: rgb(229, 255, 0)}
+#box6 {background: rgb(255, 102, 0)}
+#box7 {background: rgb(0, 255, 217)}
+#box8 {background: rgb(255, 0, 200)}
+#box9 {background: rgb(85, 255, 0)}
+#box10{background: blanchedalmond}
+#box11{background: black
+}
+
+
+h6{
+    font-size: 40px;
+    text-align: center;
+}
+
+
+#music{
+    display:flex;
+    height: 36%;
+    width: 42%;
+}
+.grande{
+    width: 100%;
+    height: 20%;
+    
+    
+}
+
+.lily{
+    width: 30%;
+    height: 20%;
+    
+}
+.mello{
+    width: 20%;
+    height: 30%;
+}
+
+#logo1{
+    width: 150px;
+    height: 150px;
+
+}
+
+#logo2{
+    width: 150px;
+    height:150px;
+}
+
+
+#logo3{
+    width: 150px;
+    height:150px;
+}
+
+#logo4{
+    width: 150px;
+    height:150px;
+}
+
